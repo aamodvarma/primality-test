@@ -1,3 +1,4 @@
+// NOTE: GPT helped in structuring and writing most of the code!
 #include <iostream>
 #include <gmpxx.h>
 #include <chrono>
